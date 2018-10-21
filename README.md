@@ -1,5 +1,5 @@
 # Chatting Room
-**Based on Uinx **
+**Based on Uinx**
 
 # 聊天室项目 需求说明
 
